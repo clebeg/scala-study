@@ -1,0 +1,1 @@
+wo zhishi ce shi yixia 贷出模式，类似于切片模型。
